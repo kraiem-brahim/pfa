@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319261952434",
+    "firebase_url": "https://pfa1-acd51-default-rtdb.firebaseio.com",
+    "project_id": "pfa1-acd51",
+    "storage_bucket": "pfa1-acd51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319261952434:android:50b639973f18220a8dbcab",
+        "android_client_info": {
+          "package_name": "com.example.pfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319261952434-8cq0u8e1glplldsvrg30j7mqku5evhm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARjau68rM0ztXzwrr5KiDYYlSW8joNrz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319261952434-8cq0u8e1glplldsvrg30j7mqku5evhm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
